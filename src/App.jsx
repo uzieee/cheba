@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="flex flex-col h-full items-center justify-center bg-gray-200 text-gray-700">
       <div className="flex items-center">
-        <h1 className="text-6xl font-thin tracking-wider">Create React App + Tailwind CSS</h1>
+        <h1 className="text-6xl font-thin tracking-wider">Cheba</h1>
       </div>
       <p className="my-6 tracking-wide">
         Edit <code>src/App.js</code> and save to reload.
